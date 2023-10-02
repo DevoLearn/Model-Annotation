@@ -4,9 +4,11 @@
 
 In conjunction with the [OpenWorm Foundation](https://openworm.org/) and [Orthogonal Research and Education Lab](https://orthogonal-research.weebly.com/)   
 
+### How to participate:
+
 Watch this video on Detectron 2 [link](https://www.youtube.com/watch?v=cEgF0YknpZw&t=593s)
 
-Go to dataset and download a partition [link](---)
+Go to dataset and download a partition [link](https://github.com/DevoLearn/Model-Annotation/data-buckets)
 
 
 
